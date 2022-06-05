@@ -1,568 +1,300 @@
 {
-  "songs": {
-    "message" : "Thời gian cho gia đình và bản thân",
-    "playlists" : {
-      "href" : "https://api.spotify.com/v1/browse/featured-playlists?country=VN&locale=vi_vn&timestamp=2022-05-30T21%3A55%3A40&offset=0&limit=15",
-      "items" : [ 
-        {
-        "description" : "Thế hệ nghệ sĩ mới. Nếu sử dụng 📲, bấm ☉ phía trên ☝ để khám phá thêm về nghệ sĩ trên ảnh bìa VSTRA",
-        "id" : "37i9dQZF1DX0dUsjwqfaGM",
-        "images" : [ {
-          "url" : "https://i.scdn.co/image/ab67706f0000000354547fb098da8b56028b43ab"
-        } ],
-        "name" : "RADAR Vietnam",
-        "snapshot_id" : "MTY1MzkyMjQ5OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
-        "tracks" : {
-          "total" : 30
-        },
-        "type" : "playlist"
-        }, 
-        {
-          "description" : "Nhạc phim Our Blues, Hẹn Hò Chốn Công Sở, Nhật Ký Tự Do Của Tôi, Tuổi 25 - Tuổi 21... và những bộ phim khác",
-          "id" : "37i9dQZF1DX1vC8WamgJcA",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f0000000318fbf18adec2dd8c6b3e28b2"
-          } ],
-          "name" : "Từ Màn Ảnh",
-          "snapshot_id" : "MTY1MzYxNjAyMiwwMDAwMDE1YTAwMDAwMTgxMDMzMjE1MTcwMDAwMDE4MGI2M2MyNDYy",
-          "tracks" : {
-            "total" : 100
-          },
-          "type" : "playlist"
-        }, 
-        {
-          "description" : "BTS, Red Velvet, BIGBANG, (G)I-DLE... fan K-Pop còn cần gì hơn lúc này? Ảnh bìa: B.I., Soulja Boy, DeVita",
-          "id" : "37i9dQZF1DWZZpneIA1A5T",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f00000003da571cd09c7ed9b68c7de39c"
-          } ],
-          "name" : "K-Pop Ngay Lúc Này",
-          "snapshot_id" : "MTY1MzYwOTM5MSwwMDAwMDIwYzAwMDAwMTgxMDJjY2U0ODIwMDAwMDE4MTAyY2MzNmUw",
-          "tracks" : {
-            "total" : 59
-          },
-          "type" : "playlist"
-        }, 
-        {
-          "description" : "Những bản EDM cực đỉnh không thể ngừng nghe. Ảnh bìa: The Chainsmokers",
-          "id" : "37i9dQZF1DWX3sGzKRxSTn",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f00000003571e8eac39e4a23c21dbe01d"
-          } ],
-          "name" : "EDM Gây Nghiện",
-          "snapshot_id" : "MTY1MzYxNjE5MSwwMDAwMDI2YTAwMDAwMTgxMDMzNGE5NjAwMDAwMDE4MGI2ZDRjOWI5",
-          "tracks" : {
-            "total" : 100
-          },
-          "type" : "playlist"
-        }, 
-        {
-          "description" : "\u001DNhững gì mà người bên cạnh bạn đang nghe. Ảnh bìa: AMEE",
-          "id" : "37i9dQZF1DWVOaOWiVD1Lf",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f00000003898a3a67e9749c9b5160dd47"
-          } ],
-          "name" : "Thiên Hạ Nghe Gì",
-          "snapshot_id" : "MTY1Mzg4MDk5MCwwMDAwMDYzYjAwMDAwMTgxMTJmZDI5YjEwMDAwMDE4MTBhZmY5YWY2",
-          "tracks" : {
-            "total" : 100
-          },
-          "type" : "playlist"
-        }, 
-        {
-          "description" : "Những ca khúc hay nhất từ dòng nhạc mới mẻ và đa dạng ",
-          "id" : "37i9dQZF1DWT2oR9BciC32",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f0000000358ebd3532b449074e10708d2"
-          } ],
-          "name" : "Indie Việt",
-          "snapshot_id" : "MTY1MzkyMjU0MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
-          "tracks" : {
-            "total" : 51
-          },
-          "type" : "playlist"
-        }, 
-        {
-          "description" : "Listen to all the tracks you've been missing. Cover: The Weeknd",
-          "id" : "37i9dQZF1DX0s5kDXi1oC5",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f00000003ca64210a23622427ec19c4a6"
-          } ],
-          "name" : "Hit Rewind",
-          "snapshot_id" : "MTY1MzkyMjUxOSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
-          "tracks" : {
-            "total" : 75
-          },
-          "type" : "playlist"
-        }, 
-        {
-          "description" : "The hottest songs you need to listen to right now. Cover: Calvin Harris, Dua Lipa, Young Thug",
-          "id" : "37i9dQZF1DWT1y71ZcMPe5",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f00000003e8a83547cefd10696f325263"
-          } ],
-          "name" : "It's a Hit!",
-          "snapshot_id" : "MTY1Mzg3OTM5NSwwMDAwMDFhODAwMDAwMTgxMTJlNGQzMjgwMDAwMDE4MTEyZTJiNTE4",
-          "tracks" : {
-            "total" : 50
-          },
-          "type" : "playlist"
-        }, 
-        {
-          "description" : "Songs so beautiful, they'll stop you in your tracks",
-          "id" : "37i9dQZF1DX9Z3vMB2b8im",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f000000034806ff1e2a4bbca552bace61"
-          } ],
-          "name" : "The Most Beautiful Songs in the World",
-          "snapshot_id" : "MTY0ODgyNDYxMywwMDAwMDA3YzAwMDAwMTdmZTU5YWZjNTgwMDAwMDE3MzM5MGVhZWYy",
-          "tracks" : {
-            "total" : 80
-          },
-          "type" : "playlist"
-        }, 
-        {
-          "description" : "The best from the world of acoustic songs right now.",
-          "id" : "37i9dQZF1DWY8U6Zq7nvbE",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f00000003e11cc5beab79b66601a44903"
-          } ],
-          "name" : "Hot Acoustics",
-          "snapshot_id" : "MTY1MzkyMjUyMCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
-          "tracks" : {
-            "total" : 100
-          },
-          "type" : "playlist"
-        }, 
-        {
-          "description" : "Beautiful songs to give you that warm, fuzzy feeling.",
-          "id" : "37i9dQZF1DX5IDTimEWoTd",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f000000034c10408f5737aa8f2e4d97b9"
-          } ],
-          "name" : "Warm Fuzzy Feeling",
-          "snapshot_id" : "MTY1MzkyMjUwMCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
-          "tracks" : {
-            "total" : 100
-          },
-          "type" : "playlist"
-        }, 
-        {
-          "description" : "\u001DNhạc Việt thời thanh xuân của thập niên 90 - 2000. ",
-          "id" : "37i9dQZF1DX0Bm9rVRYPcY",
-          "images" : [ {
-            "url" : "https://i.scdn.co/image/ab67706f00000003028416ca5460efab1b44e46f"
-          } ],
-          "name" : "V-Pop Ngày Hôm Qua",
-          "snapshot_id" : "MTY1MzkyMjU0MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
-          "tracks" : {
-            "total" : 55
-          },
-          "type" : "playlist"
-        },
-        {
-          "collaborative" : false,
-          "description" : "Những giai điệu êm dịu nhất cho giấc ngủ trọn vẹn.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWTbsyONR3fNp"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWTbsyONR3fNp",
-          "id" : "37i9dQZF1DWTbsyONR3fNp",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f00000003cc785c1541d8b540da816688",
-            "width" : null
-          } ],
-          "name" : "Giấc Ngủ Sâu",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1NDM2NTg1MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWTbsyONR3fNp/tracks",
-            "total" : 100
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DWTbsyONR3fNp"
-        }, {
-          "collaborative" : false,
-          "description" : "Không gì bằng một giấc ngủ ngon cùng những giai điệu đẹp.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXbmly6FuQdAK"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXbmly6FuQdAK",
-          "id" : "37i9dQZF1DXbmly6FuQdAK",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f00000003b8726e4234fe97e342f0d130",
-            "width" : null
-          } ],
-          "name" : "Tắt Đèn",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1NDM2NTg2NiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXbmly6FuQdAK/tracks",
-            "total" : 100
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DXbmly6FuQdAK"
-        }, {
-          "collaborative" : false,
-          "description" : "Drift off to these peaceful classical melodies.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX8Sz1gsYZdwj"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX8Sz1gsYZdwj",
-          "id" : "37i9dQZF1DX8Sz1gsYZdwj",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f000000038f5b6bf8fd58ce6ab15e037a",
-            "width" : null
-          } ],
-          "name" : "Classical Sleep",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1Mjc5NjUwOCwwMDAwMDA2NDAwMDAwMTgwZDI1OTQ4ODMwMDAwMDE2ZWEyMGM1NmVj",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX8Sz1gsYZdwj/tracks",
-            "total" : 51
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DX8Sz1gsYZdwj"
-        }, {
-          "collaborative" : false,
-          "description" : "Unwind to these calm classical guitar pieces.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX0jgyAiPl8Af"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0jgyAiPl8Af",
-          "id" : "37i9dQZF1DX0jgyAiPl8Af",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f000000038ed1a5002b96c2ea882541b2",
-            "width" : null
-          } ],
-          "name" : "Peaceful Guitar",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1NDIxNDQwMCwwMDAwMDBiNjAwMDAwMTgxMjZkYzk4YmUwMDAwMDE2ZDE1MzFlYjZl",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0jgyAiPl8Af/tracks",
-            "total" : 194
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DX0jgyAiPl8Af"
-        }, {
-          "collaborative" : false,
-          "description" : "Soothing, minimalist ambient for deep sleep.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWYcDQ1hSjOpY"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYcDQ1hSjOpY",
-          "id" : "37i9dQZF1DWYcDQ1hSjOpY",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f00000003c601a6a746366286845b8fda",
-            "width" : null
-          } ],
-          "name" : "Deep Sleep",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1MzQ5NDIzNSwwMDAwMDA3NjAwMDAwMTgwZmJlZmMwMTgwMDAwMDE2ZDE1MjI3Zjk3",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYcDQ1hSjOpY/tracks",
-            "total" : 269
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DWYcDQ1hSjOpY"
-        }, {
-          "collaborative" : false,
-          "description" : "Gentle ambient piano to help you fall asleep.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZd79rJ6a7lp",
-          "id" : "37i9dQZF1DWZd79rJ6a7lp",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f00000003b70e0223f544b1faa2e95ed0",
-            "width" : null
-          } ],
-          "name" : "Sleep",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1MzQ5NDIxNywwMDAwMDBlYTAwMDAwMTgwZmJlZjdhYjYwMDAwMDE2Y2Y2OTUyYjAw",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZd79rJ6a7lp/tracks",
-            "total" : 212
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DWZd79rJ6a7lp"
-        }, {
-          "collaborative" : false,
-          "description" : "Ambient drone to make you feel weightless.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX1n9whBbBKoL"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1n9whBbBKoL",
-          "id" : "37i9dQZF1DX1n9whBbBKoL",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f00000003d33da3d4e483709cb1b33c8b",
-            "width" : null
-          } ],
-          "name" : "Floating Through Space",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1MzQ5NDQwMywwMDAwMDA3ODAwMDAwMTgwZmJmMjUwOGMwMDAwMDE2ZDAwYzU0ODJk",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1n9whBbBKoL/tracks",
-            "total" : 133
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DX1n9whBbBKoL"
-        }, {
-          "collaborative" : false,
-          "description" : "Steady rain without any thunder.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX8ymr6UES7vc"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX8ymr6UES7vc",
-          "id" : "37i9dQZF1DX8ymr6UES7vc",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f00000003aba1f07094bd3e98cd0122de",
-            "width" : null
-          } ],
-          "name" : "Rain Sounds",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY0ODY1MTc4NywwMDAwMDA1MDAwMDAwMTdmZGI0ZGRlYjgwMDAwMDE3M2I4ZGU5Yjgx",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX8ymr6UES7vc/tracks",
-            "total" : 194
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DX8ymr6UES7vc"
-        }, {
-          "collaborative" : false,
-          "description" : "Peaceful instrumentals to help you keep calm.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXdCsscAsbRNz"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdCsscAsbRNz",
-          "id" : "37i9dQZF1DXdCsscAsbRNz",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f0000000351ccb408f4917c36e242d08f",
-            "width" : null
-          } ],
-          "name" : "Peace",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1MzU3ODIyMSwwMDAwMDBiYTAwMDAwMTgxMDBmMTQ1Y2MwMDAwMDE2ZDE1NGQ3Mjhm",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdCsscAsbRNz/tracks",
-            "total" : 272
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DXdCsscAsbRNz"
-        }, {
-          "collaborative" : false,
-          "description" : "Music to reduce insomnia and help you relax.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWSUFOo47GEsI"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSUFOo47GEsI",
-          "id" : "37i9dQZF1DWSUFOo47GEsI",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f0000000360fd1f89de6186b9f4d2fa80",
-            "width" : null
-          } ],
-          "name" : "Sleep Tight",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1MzQ5NDQ5MCwwMDAwMDA4NjAwMDAwMTgwZmJmM2E0YTgwMDAwMDE3OTBlOTllNTIx",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSUFOo47GEsI/tracks",
-            "total" : 247
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DWSUFOo47GEsI"
-        }, {
-          "collaborative" : false,
-          "description" : "Dark and moody progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX6GJXiuZRisr"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6GJXiuZRisr",
-          "id" : "37i9dQZF1DX6GJXiuZRisr",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f0000000309eec532a1a213bc950dff71",
-            "width" : null
-          } ],
-          "name" : "Night Rider",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1NDM2NTg1MywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6GJXiuZRisr/tracks",
-            "total" : 100
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DX6GJXiuZRisr"
-        }, {
-          "collaborative" : false,
-          "description" : "Slow down with some calming keys.",
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX1s9knjP51Oa"
-          },
-          "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1s9knjP51Oa",
-          "id" : "37i9dQZF1DX1s9knjP51Oa",
-          "images" : [ {
-            "height" : null,
-            "url" : "https://i.scdn.co/image/ab67706f00000003ec69f78942a99131ab104df5",
-            "width" : null
-          } ],
-          "name" : "Calm Vibes",
-          "owner" : {
-            "display_name" : "Spotify",
-            "external_urls" : {
-              "spotify" : "https://open.spotify.com/user/spotify"
-            },
-            "href" : "https://api.spotify.com/v1/users/spotify",
-            "id" : "spotify",
-            "type" : "user",
-            "uri" : "spotify:user:spotify"
-          },
-          "primary_color" : null,
-          "public" : null,
-          "snapshot_id" : "MTY1MzU4NjQwNiwwMDAwMDA5MTAwMDAwMTgxMDE2ZTJlNDMwMDAwMDE2ZDE1NDk3NWNm",
-          "tracks" : {
-            "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1s9knjP51Oa/tracks",
-            "total" : 396
-          },
-          "type" : "playlist",
-          "uri" : "spotify:playlist:37i9dQZF1DX1s9knjP51Oa"
-        }
-      ],
-      "limit" : 15,
-      "next" : null,
-      "offset" : 0,
-      "previous" : null,
-      "total" : 15
+  "playlists-info": {
+    "message": "Thời gian cho gia đình và bản thân",
+    "limit": 15,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 15
+  },
+  "playlists": [
+    {
+      "description": "Thế hệ nghệ sĩ mới. Nếu sử dụng 📲, bấm ☉ phía trên ☝ để khám phá thêm về nghệ sĩ trên ảnh bìa VSTRA",
+      "id": "37i9dQZF1DX0dUsjwqfaGM",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f0000000354547fb098da8b56028b43ab"
+      },
+      "name": "RADAR Vietnam",
+      "tracks": {
+        "total": 30
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Nhạc phim Our Blues, Hẹn Hò Chốn Công Sở, Nhật Ký Tự Do Của Tôi, Tuổi 25 - Tuổi 21... và những bộ phim khác",
+      "id": "37i9dQZF1DX1vC8WamgJcA",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f0000000318fbf18adec2dd8c6b3e28b2"
+      },
+      "name": "Từ Màn Ảnh",
+      "tracks": {
+        "total": 100
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "BTS, Red Velvet, BIGBANG, (G)I-DLE... fan K-Pop còn cần gì hơn lúc này? Ảnh bìa: B.I., Soulja Boy, DeVita",
+      "id": "37i9dQZF1DWZZpneIA1A5T",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003da571cd09c7ed9b68c7de39c"
+      },
+      "name": "K-Pop Ngay Lúc Này",
+      "tracks": {
+        "total": 59
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Những bản EDM cực đỉnh không thể ngừng nghe. Ảnh bìa: The Chainsmokers",
+      "id": "37i9dQZF1DWX3sGzKRxSTn",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003571e8eac39e4a23c21dbe01d"
+      },
+      "name": "EDM Gây Nghiện",
+      "tracks": {
+        "total": 100
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "\u001dNhững gì mà người bên cạnh bạn đang nghe. Ảnh bìa: AMEE",
+      "id": "37i9dQZF1DWVOaOWiVD1Lf",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003898a3a67e9749c9b5160dd47"
+      },
+      "name": "Thiên Hạ Nghe Gì",
+      "tracks": {
+        "total": 100
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Những ca khúc hay nhất từ dòng nhạc mới mẻ và đa dạng ",
+      "id": "37i9dQZF1DWT2oR9BciC32",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f0000000358ebd3532b449074e10708d2"
+      },
+      "name": "Indie Việt",
+      "tracks": {
+        "total": 51
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Listen to all the tracks you've been missing. Cover: The Weeknd",
+      "id": "37i9dQZF1DX0s5kDXi1oC5",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003ca64210a23622427ec19c4a6"
+      },
+      "name": "Hit Rewind",
+      "tracks": {
+        "total": 75
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "The hottest songs you need to listen to right now. Cover: Calvin Harris, Dua Lipa, Young Thug",
+      "id": "37i9dQZF1DWT1y71ZcMPe5",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003e8a83547cefd10696f325263"
+      },
+      "name": "It's a Hit!",
+      "tracks": {
+        "total": 50
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Songs so beautiful, they'll stop you in your tracks",
+      "id": "37i9dQZF1DX9Z3vMB2b8im",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f000000034806ff1e2a4bbca552bace61"
+      },
+      "name": "The Most Beautiful Songs in the World",
+      "tracks": {
+        "total": 80
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "The best from the world of acoustic songs right now.",
+      "id": "37i9dQZF1DWY8U6Zq7nvbE",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003e11cc5beab79b66601a44903"
+      },
+      "name": "Hot Acoustics",
+      "tracks": {
+        "total": 100
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Beautiful songs to give you that warm, fuzzy feeling.",
+      "id": "37i9dQZF1DX5IDTimEWoTd",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f000000034c10408f5737aa8f2e4d97b9"
+      },
+      "name": "Warm Fuzzy Feeling",
+      "tracks": {
+        "total": 100
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "\u001dNhạc Việt thời thanh xuân của thập niên 90 - 2000. ",
+      "id": "37i9dQZF1DX0Bm9rVRYPcY",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003028416ca5460efab1b44e46f"
+      },
+      "name": "V-Pop Ngày Hôm Qua",
+      "tracks": {
+        "total": 55
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Những giai điệu êm dịu nhất cho giấc ngủ trọn vẹn.",
+      "id": "37i9dQZF1DWTbsyONR3fNp",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003cc785c1541d8b540da816688"
+      },
+      "name": "Giấc Ngủ Sâu",
+      "tracks": {
+        "total": 100
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Không gì bằng một giấc ngủ ngon cùng những giai điệu đẹp.",
+      "id": "37i9dQZF1DXbmly6FuQdAK",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003b8726e4234fe97e342f0d130"
+      },
+      "name": "Tắt Đèn",
+      "tracks": {
+        "total": 100
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Drift off to these peaceful classical melodies.",
+      "id": "37i9dQZF1DX8Sz1gsYZdwj",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f000000038f5b6bf8fd58ce6ab15e037a"
+      },
+      "name": "Classical Sleep",
+      "tracks": {
+        "total": 51
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Unwind to these calm classical guitar pieces.",
+      "id": "37i9dQZF1DX0jgyAiPl8Af",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f000000038ed1a5002b96c2ea882541b2"
+      },
+      "name": "Peaceful Guitar",
+      "tracks": {
+        "total": 194
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Soothing, minimalist ambient for deep sleep.",
+      "id": "37i9dQZF1DWYcDQ1hSjOpY",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003c601a6a746366286845b8fda"
+      },
+      "name": "Deep Sleep",
+      "tracks": {
+        "total": 269
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Gentle ambient piano to help you fall asleep.",
+      "id": "37i9dQZF1DWZd79rJ6a7lp",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003b70e0223f544b1faa2e95ed0"
+      },
+      "name": "Sleep",
+      "tracks": {
+        "total": 212
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Ambient drone to make you feel weightless.",
+      "id": "37i9dQZF1DX1n9whBbBKoL",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003d33da3d4e483709cb1b33c8b"
+      },
+      "name": "Floating Through Space",
+      "tracks": {
+        "total": 133
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Steady rain without any thunder.",
+      "id": "37i9dQZF1DX8ymr6UES7vc",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003aba1f07094bd3e98cd0122de"
+      },
+      "name": "Rain Sounds",
+      "tracks": {
+        "total": 194
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Peaceful instrumentals to help you keep calm.",
+      "id": "37i9dQZF1DXdCsscAsbRNz",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f0000000351ccb408f4917c36e242d08f"
+      },
+      "name": "Peace",
+      "tracks": {
+        "total": 272
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Music to reduce insomnia and help you relax.",
+      "id": "37i9dQZF1DWSUFOo47GEsI",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f0000000360fd1f89de6186b9f4d2fa80"
+      },
+      "name": "Sleep Tight",
+      "tracks": {
+        "total": 247
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Dark and moody progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
+      "id": "37i9dQZF1DX6GJXiuZRisr",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f0000000309eec532a1a213bc950dff71"
+      },
+      "name": "Night Rider",
+      "tracks": {
+        "total": 100
+      },
+      "type": "playlist"
+    },
+    {
+      "description": "Slow down with some calming keys.",
+      "id": "37i9dQZF1DX1s9knjP51Oa",
+      "image": {
+        "url": "https://i.scdn.co/image/ab67706f00000003ec69f78942a99131ab104df5"
+      },
+      "name": "Calm Vibes",
+      "tracks": {
+        "total": 396
+      },
+      "type": "playlist"
     }
-  } 
+  ]
 }

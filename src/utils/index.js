@@ -1,12 +1,11 @@
-export const renderSongs = (songs) => {
-  return songs.map(({ images, name, description, id }) => {
-    const image = images[0].url;
+export const renderPlaylists = (playlists) => {
+  return playlists.map(({ image, name, description, id }) => {
     return (
       <div className="card card--square">
         <div className="card-wrapper">
           <a to={`#${id}`} className="card-link">
             <div className="card-img">
-              <img src={image} alt="song" />
+              <img src={image.url} alt="playlist" />
             </div>
             {name && <h4 className="card-title line-clamp--1">{name}</h4>}
           </a>

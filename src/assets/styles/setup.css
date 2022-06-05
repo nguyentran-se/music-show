@@ -1,9 +1,15 @@
+*, *::before, *::after {
+	box-sizing: border-box;
+}
 body {
 	font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* color: #fff; */
 	/* overflow: hidden; */
+}
+textarea {
+	resize: none;
 }
 
 :root {
@@ -17,4 +23,5 @@ body {
 	--card-title-hover: #c662ef;
 	--card-description: hsla(0, 0%, 100%, 0.5);
 	--primary-color: #7200a1;
+	--modal-bg: rgba(0,0,0,.6);
 }
